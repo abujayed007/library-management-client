@@ -94,7 +94,7 @@ The goal is to build a **functional and clean frontend application** that intera
 
 - **React** + **TypeScript**
 - **Redux Toolkit Query (RTK Query)** for state management
-- **Tailwind CSS** (or plain CSS) for styling
+- **Tailwind CSS And shadcn** for styling
 
 ---
 
